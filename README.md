@@ -1,27 +1,24 @@
-<h1 align="center">「 ʀɪsʜᴜ ᴄʜᴀᴛʙᴏᴛ ʙᴏᴛ  」
+<h1 align="center">「 ᴄʜᴀᴛʙᴏᴛ ʙᴏᴛ  」
 
-<h2 align="center">
-    ──「 ᴄʜᴀᴛʙᴏᴛ 」──
-</h2>
 <p align="center">
-  <img src="https://te.legra.ph/file/b55448f8abd23f24ee425.jpg">
+  <img src="https://envs.sh/vLi.jpg">
 </p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/rishubot/RishuChatbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-cyan?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TheChampu/ChampuChatBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-cyan?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h4 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ᴠᴘs 」─
 </h4>
 
-- Get your [Necessary Variables](https://github.com/Rishubot/RishuChatbot/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/TheChampu/ChampuChatBot/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Clone the repository by :
-`git clone https://github.com/Rishubot/RishuChatbot && cd RishuChatbot`
+`git clone https://github.com/TheChampu/ChampuChatBot && cd ChampuChatBot`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -39,15 +36,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 <h2 align="center"> ──「 ᴅᴇᴍᴏ ʀᴏʙᴏᴛ 」──</h2>
 <i>ᴀʟʟ ᴛʜᴇ ᴄᴜsᴛᴏᴍɪsᴀᴛɪᴏɴs ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ. ᴊᴜsᴛ ᴄʜᴇᴄᴋᴏᴜᴛ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴠᴀʀɪᴀʙʟᴇs.</i>
-<p align="center"><a href="https://t.me/khushixchatbot"> <img src="https://img.shields.io/badge/Check-Demo%20Robot-black?style=for-the-badge&logo=Telegram" width="220" height="39"/></a></p>
+<p align="center"><a href="https://t.me/ChampuChatBot"> <img src="https://img.shields.io/badge/Check-Demo%20Robot-black?style=for-the-badge&logo=Telegram" width="220" height="39"/></a></p>
 
-
-<h2 align="center"> ──「 sᴜᴘᴘᴏʀᴛ 」──</h2>
-<p align="center"><a href="https://t.me/ur_rishu_143"> <img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
-<p align="center"><a href="https://t.me/rishu1286"> <img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 
 <h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
-<a href="https://github.com/Rishubot/RishuChatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishubot&repo=RishuChatbot&theme=chartreuse-dark"></a>
+<a href="https://github.com/TheChampu/ChampuChatBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheChampu&repo=ChampuChatBot&theme=chartreuse-dark"></a>
 
 
 

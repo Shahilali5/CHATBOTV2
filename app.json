@@ -1,7 +1,7 @@
 {
-  "name": "RISHUCHATBOT",
+  "name": "ChampuChatBot",
   "description": "A telegram bot",
-  "logo": "https://envs.sh/IL_.jpg",
+  "logo": "https://envs.sh/vLi.jpg",
   "keywords": [
     "Chatbot",
     "mongodb",
@@ -11,25 +11,25 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/THE-VIP-BOY-OP/VIP-CHATBOT",
+  "repository": "https://github.com/TheChampu/ChatBot",
   "env": {
     "BOT_TOKEN": {
-      "description": "A Bot token from @BotFather",
+      "description": "ᴀ ʙᴏᴛ ᴛᴏᴋᴇɴ ғʀᴏᴍ @BotFather",
       "required": true,
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Fill Here A Pyrogram String Session For Id-Chatbot, Get it from: https://telegram.tools/session-string-generator#pyrogram,user (This is Optional, If you dont want id-chatbot you can skip this variable)",
+      "description": "ғɪʟʟ ʜᴇʀᴇ ᴀ ᴘʏʀᴏɢʀᴀᴍ sᴛʀɪɴɢ sᴇssɪᴏɴ ғᴏʀ ɪᴅ-ᴄʜᴀᴛʙᴏᴛ, ɢᴇᴛ ɪᴛ ғʀᴏᴍ: https://telegram.tools/session-string-generator#pyrogram,user (ᴛʜɪs ɪs ᴏᴘᴛɪᴏɴᴀʟ, ɪғ ʏᴏᴜ ᴅᴏɴᴛ ᴡᴀɴᴛ ɪᴅ-ᴄʜᴀᴛʙᴏᴛ ʏᴏᴜ ᴄᴀɴ sᴋɪᴘ ᴛʜɪs ᴠᴀʀɪᴀʙʟᴇ)",
       "required": false,
       "value": ""
     },
     "OWNER_ID": {
-      "description": "Fill Here Your Owner User Id",
+      "description": "ғɪʟʟ ʜᴇʀᴇ ʏᴏᴜʀ ᴏᴡɴᴇʀ ᴜsᴇʀ ɪᴅ",
       "required": true,
-      "value": "1808943146"
+      "value": "6399386263"
     },
     "MONGO_URL": {
-      "description": "Get a mongodb url from https://cloud.mongodb.com.",
+      "description": "ɢᴇᴛ ᴀ ᴍᴏɴɢᴏᴅʙ ᴜʀʟ ғʀᴏᴍ https://cloud.mongodb.com.",
       "required": true,
       "value": ""
     }
