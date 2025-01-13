@@ -4,7 +4,6 @@ from config import OWNER_ID
 from dotenv import load_dotenv
 from pyrogram import Client
 import config
-from ChampuChatBot import LOGGER
 
 class Userbot(Client):
     def __init__(self):
