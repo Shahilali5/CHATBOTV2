@@ -30,10 +30,16 @@ from ChampuChatBot.modules.helpers import (
 
 GSTART = """**ʜᴇʏ ᴅᴇᴀʀ {}**\n\n**ᴛʜᴀɴᴋs ғᴏʀ sᴛᴀʀᴛ ᴍᴇ ɪɴ ɢʀᴏᴜᴘ ʏᴏᴜ ᴄᴀɴ ᴄʜᴀɴɢᴇ ʟᴀɴɢᴜᴀɢᴇ ʙʏ ᴄʟɪᴄᴋ ᴏɴ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴs.**\n**ᴄʟɪᴄᴋ ᴀɴᴅ sᴇʟᴇᴄᴛ ʏᴏᴜʀ ғᴀᴠᴏᴜʀɪᴛᴇ ʟᴀɴɢᴜᴀɢᴇ ᴛᴏ sᴇᴛ ᴄʜᴀᴛ ʟᴀɴɢᴜᴀɢᴇ ғᴏʀ ʙᴏᴛ ʀᴇᴘʟʏ.**\n\n**ᴛʜᴀɴᴋ ʏᴏᴜ ᴘʟᴇᴀsᴇ ᴇɴɪᴏʏ.**"""
 STICKER = [
-    "CAACAgUAAx0CYlaJawABBy4vZaieO6T-Ayg3mD-JP-f0yxJngIkAAv0JAALVS_FWQY7kbQSaI-geBA",
-    "CAACAgUAAx0CYlaJawABBy4rZaid77Tf70SV_CfjmbMgdJyVD8sAApwLAALGXCFXmCx8ZC5nlfQeBA",
-    "CAACAgUAAx0CYlaJawABBy4jZaidvIXNPYnpAjNnKgzaHmh3cvoAAiwIAAIda2lVNdNI2QABHuVVHgQ",
-]
+        "CAACAgUAAx0Ccg5OnAACO7Zmsgyr0PLz9JWrMk3Qq_nMVGgGfAACIQoAAkCj8Fdxa8YvGPC9nx4E" , 
+        "CAACAgUAAx0Ccg5OnAACO7lmsgy3AUQHAW7G05yl_rf6Pb469gACZQgAAj3k-Vfsu_WmA6PiUx4E" , 
+        "CAACAgUAAx0Ccg5OnAACO7xmsgzKSD0pzxgH8KFGaSQ9zifkJgACBAgAAgz1-Fdx5iMD0Bh8mR4E" , 
+        "CAACAgUAAx0Ccg5OnAACO79msgzapLLbvhL2GZUX1ZPAs3QnwgACbQcAAj5O-Vfacb2S2B5RQB4E" , 
+        "CAACAgUAAx0Ccg5OnAACO8JmsgztO7-hwSVQUuxKdjMeSglEqwACsAYAAgMG-Vd0t6HAhNHB5x4E" , 
+        "CAACAgUAAx0Ccg5OnAACO8Vmsgz9z6YrW7xWS2cE9UsdbZvvRAACIwkAAlmS8FcdZ3xHfo764h4E" ,
+        "CAACAgUAAx0Ccg5OnAACO8hmsg0TIO_DQ4FdyyMmtvqIp5g4FgAC1wcAAjJP-Vdg1wymsgazNB4E" , 
+        "CAACAgEAAx0Ccg5OnAACO85msg1m3fnsbowqLGzlVblcH-7XsQAC1AUAAklTqUQlhMqMLBaIzR4E" , 
+        "CAACAgEAAx0Ccg5OnAACO9Fmsg2MKg4OyLYRS_m3HaAazbIfngACYQQAAoD4qER5uOGwdDS1Nh4E"
+        ]
 
 
 EMOJIOS = [
@@ -49,23 +55,23 @@ EMOJIOS = [
     "🕊",
 ]
 
-BOT = "https://envs.sh/IL_.jpg"
+BOT = "https://envs.sh/vLi.jpg"
 IMG = [
-    "https://graph.org/file/210751796ff48991b86a3.jpg",
-    "https://graph.org/file/7b4924be4179f70abcf33.jpg",
-    "https://graph.org/file/f6d8e64246bddc26b4f66.jpg",
-    "https://graph.org/file/63d3ec1ca2c965d6ef210.jpg",
-    "https://graph.org/file/9f12dc2a668d40875deb5.jpg",
-    "https://graph.org/file/0f89cd8d55fd9bb5130e1.jpg",
-    "https://graph.org/file/e5eb7673737ada9679b47.jpg",
-    "https://graph.org/file/2e4dfe1fa5185c7ff1bfd.jpg",
-    "https://graph.org/file/36af423228372b8899f20.jpg",
-    "https://graph.org/file/c698fa9b221772c2a4f3a.jpg",
-    "https://graph.org/file/61b08f41855afd9bed0ab.jpg",
-    "https://graph.org/file/744b1a83aac76cb3779eb.jpg",
-    "https://graph.org/file/814cd9a25dd78480d0ce1.jpg",
-    "https://graph.org/file/e8b472bcfa6680f6c6a5d.jpg",
-]
+    "https://telegra.ph/file/010c936d41e9da782780f.jpg",
+    "https://telegra.ph/file/e17740f22da1fe4162e43.jpg",
+    "https://telegra.ph/file/38ae0f7b919a8995c7f29.jpg",
+    "https://telegra.ph/file/9fbc748ad0d552e403ba6.jpg",
+    "https://telegra.ph/file/2433c1b98d2621623ead3.jpg",
+    "https://telegra.ph/file/62f26ca46103beee9a0d5.jpg",
+    "https://telegra.ph/file/d3e855bc548a1ce9649e7.jpg",
+    "https://telegra.ph/file/b860df3e144c2208a7e5a.jpg",
+    "https://telegra.ph/file/33591be403ae3eaae7217.jpg",
+    "https://telegra.ph/file/a9d91437d795b0ae55af8.jpg",
+    "https://telegra.ph/file/1891e318996f393e0aebc.jpg",
+    "https://telegra.ph/file/84492c50c7a8a8d2603dc.jpg",
+    "https://telegra.ph/file/ae843fb1e51218521e95b.jpg",
+    "https://telegra.ph/file/0b98ff58d75e85438d3a0.jpg"
+    ]
 
 
 
