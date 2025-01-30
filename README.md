@@ -14,7 +14,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ᴠᴘs 」─
 </h4>
 
-- Get your [Necessary Variables](https://github.com/TheChampu/ChampuChatBot/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/Shahilali5/CHATBOTV2//blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Clone the repository by :
