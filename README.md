@@ -40,7 +40,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 
 <h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
-<a href="https://github.com/Shahilali5/ChampuChatBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheChampu&repo=ChampuChatBot&theme=chartreuse-dark"></a>
+<a href="https://github.com/Shahilali5/CHATBOTV2/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheChampu&repo=ChampuChatBot&theme=chartreuse-dark"></a>
 
 
 
