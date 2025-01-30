@@ -39,8 +39,3 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <p align="center"><a href="https://t.me/UnkownxChatBot"> <img src="https://img.shields.io/badge/Check-Demo%20Robot-black?style=for-the-badge&logo=Telegram" width="220" height="39"/></a></p>
 
 
-<h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
-<a href="https://github.com/Shahilali5/CHATBOTV2/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahilali5&repo=CHATBOTV2/&theme=chartreuse-dark"></a>
-
-
-
